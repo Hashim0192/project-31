@@ -79,7 +79,7 @@ function draw(){
           drops[i].display();
           drops[i].changePosition();
       }
-      
+      umbrella.display();
       drawSprites();
 }   
 
